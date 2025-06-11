@@ -1,4 +1,6 @@
 # Micro-IT-internship-project-1
+# Develop an AI chatbot for FAQs 
+
 # actions.py
 from typing import Any, Text, Dict, List
 from rasa_sdk import Action, Tracker
